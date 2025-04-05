@@ -1,4 +1,4 @@
-import Card_role from "@/components/role/card_role";
+import Card_role from "@/components/role/Card_role";
 import Permission from "@/components/role/Permission";
 import React from "react";
 
