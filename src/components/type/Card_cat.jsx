@@ -18,7 +18,7 @@ import {
 import useCafeStore from "@/store/cafe-store";
 import Swal from "sweetalert2";
 import { createCat } from "@/api/category";
-import Table_cat from "./table_cat";
+import Table_cat from "./Table_cat";
 
 const Card_cat = () => {
   const type = useCafeStore((s) => s.type);
